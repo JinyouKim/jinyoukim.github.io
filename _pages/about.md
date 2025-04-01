@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. (Unified master’s and doctor’s course) in Artificial Intelligence of Things(AIoT) Lab. Department of Computer Science and Engineering, POSTECH, Pohang, Republic of Korea, Mar. 2017 - Present
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
