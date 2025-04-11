@@ -41,9 +41,12 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Domain Generalized Open-Set Fault Detection and Diagnosis for Belt Conveyor Systems With Prototype Learning
+
+* EmoSDS: Unified Emotionally Adaptive Spoken Dialogue System Using Self-Supervised Speech Representations
+* Efficient Construction of Bluetooth RSSI Fingerprinting-based Indoor Localization System with Domain Adaptation of Neural Network
+Jihun Park, Jinyou Kim, Young-Joo Se
+* 
   
 Talks
 ======
