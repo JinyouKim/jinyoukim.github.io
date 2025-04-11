@@ -50,15 +50,15 @@ Jaehwan Lee, Youngjun Sim, <ins>Jinyou Kim</ins>, Young-Joo Suh, in Future Inter
 <a href="https://doi.org/10.3390/fi17040143">[Paper]</a>
 
 * <strong>Efficient Construction of Bluetooth RSSI Fingerprinting-based Indoor Localization System with Domain Adaptation of Neural Network</strong><br>
-Jihun Park, <ins>Jinyou Kim</ins>, Young-Joo Suh, in Proceeding of KICS 2021 Winter Conference<br>
+Jihun Park, <ins>Jinyou Kim</ins>, Young-Joo Suh, in Proceeding of KICS Winter Conference (2021)<br>
 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10547473">[Paper]</a>
 
 * <strong>CNN/LSTM Model-based Environment Independent Activity Recognition Using Ultra-Wideband Rader</strong><br>
-<ins>Jinyou Kim</ins>, Jaegook Lee, Young-Joo Suh in Proceeding of KICS 2020 Winter Conference<br />
+<ins>Jinyou Kim</ins>, Jaegook Lee, Young-Joo Suh in Proceeding of KICS Winter Conference (2021)<br />
 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09346449">[Paper]</a>
 
 * <strong>Deep Learning-based Sign Language Recognition Method Using WiFi Channel State Information Pattern</strong><br>
-<ins>Jinyou Kim</ins>, Jaegook Lee, Dongjoo Kim, Young-Joo Suh in Proceeding of KICS 2018 Winter Conference<br>
+<ins>Jinyou Kim</ins>, Jaegook Lee, Dongjoo Kim, Young-Joo Suh in Proceeding of KICS Winter Conference (2018)<br>
 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07369305">[Paper]</a>
 
   
