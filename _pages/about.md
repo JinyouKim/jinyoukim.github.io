@@ -41,24 +41,24 @@ Skills
 
 Publications
 ======
-* <strong>Domain Generalized Open-Set Fault Detection and Diagnosis for Belt Conveyor Systems With Prototype Learning</strong> <br>
+* <strong>Domain Generalized Open-Set Fault Detection and Diagnosis for Belt Conveyor Systems With Prototype Learning</strong><br>
   <ins>Jinyou Kim</ins>, Ilkyu Yi, Young-Joo Suh, in IEEE Access (2025) <br>
   <a href="https://doi.org/10.1109/ACCESS.2025.3555984">[Paper]</a>
 
-* <B> EmoSDS: Unified Emotionally Adaptive Spoken Dialogue System Using Self-Supervised Speech Representations </B> <br />
-Jaehwan Lee, Youngjun Sim, <U>Jinyou Kim</U>, Young-Joo Suh, in Future Internet (2025)<br />
+* <strong>EmoSDS: Unified Emotionally Adaptive Spoken Dialogue System Using Self-Supervised Speech Representations</strong><br>
+Jaehwan Lee, Youngjun Sim, <ins>Jinyou Kim</ins>, Young-Joo Suh, in Future Internet (2025) <br>
 <a href="https://doi.org/10.3390/fi17040143">[Paper]</a>
 
-* <B> Efficient Construction of Bluetooth RSSI Fingerprinting-based Indoor Localization System with Domain Adaptation of Neural Network </B> <br />
-Jihun Park, <U>Jinyou Kim</U>, Young-Joo Suh, in Proceeding of KICS 2021 Winter Conference<br /> 
+* <strong>Efficient Construction of Bluetooth RSSI Fingerprinting-based Indoor Localization System with Domain Adaptation of Neural Network</strong><br>
+Jihun Park, <ins>Jinyou Kim</ins>, Young-Joo Suh, in Proceeding of KICS 2021 Winter Conference<br>
 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10547473">[Paper]</a>
 
-* <B> CNN/LSTM Model-based Environment Independent Activity Recognition Using Ultra-Wideband Rader </B> <br />
-<U>Jinyou Kim</U>, Jaegook Lee, Young-Joo Suh in Proceeding of KICS 2020 Winter Conference<br />
+* <strong>CNN/LSTM Model-based Environment Independent Activity Recognition Using Ultra-Wideband Rader</strong><br>
+<ins>Jinyou Kim</ins>, Jaegook Lee, Young-Joo Suh in Proceeding of KICS 2020 Winter Conference<br />
 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09346449">[Paper]</a>
 
-* <B> Deep Learning-based Sign Language Recognition Method Using WiFi Channel State Information Pattern </B> <br />
-<U>Jinyou Kim</U>, Jaegook Lee, Dongjoo Kim, Young-Joo Suh in Proceeding of KICS 2018 Winter Conference<br />
+* <strong>Deep Learning-based Sign Language Recognition Method Using WiFi Channel State Information Pattern</strong><br>
+<ins>Jinyou Kim</ins>, Jaegook Lee, Dongjoo Kim, Young-Joo Suh in Proceeding of KICS 2018 Winter Conference<br>
 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07369305">[Paper]</a>
 
   
