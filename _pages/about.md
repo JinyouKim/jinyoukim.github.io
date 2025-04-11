@@ -42,7 +42,7 @@ Skills
 Publications
 ======
 * <P><B>Domain Generalized Open-Set Fault Detection and Diagnosis for Belt Conveyor Systems With Prototype Learning </B></P> <br />
-<U>Jinyou Kim</U>, Ilkyu Yi, Young-Joo Suh, in IEEE Access, vol. 13, pp. 59959-59976
+<P><U>Jinyou Kim</U>, Ilkyu Yi, Young-Joo Suh, in IEEE Access, vol. 13, pp. 59959-59976</P>
 
 * EmoSDS: Unified Emotionally Adaptive Spoken Dialogue System Using Self-Supervised Speech Representations <br />
 Jaehwan Lee, Youngjun Sim, Jinyou Kim, Young-Joo Suh
