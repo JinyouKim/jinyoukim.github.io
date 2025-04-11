@@ -41,8 +41,8 @@ Skills
 
 Publications
 ======
-* <B>Domain Generalized Open-Set Fault Detection and Diagnosis for Belt Conveyor Systems With Prototype Learning </B> <br />
-<U>Jinyou Kim</U>, Ilkyu Yi, Young-Joo Suh, in IEEE Access, vol. 13, pp. 59959-59976 <br />
+* <B> Domain Generalized Open-Set Fault Detection and Diagnosis for Belt Conveyor Systems With Prototype Learning </B> <br />
+<U> Jinyou Kim </U>, Ilkyu Yi, Young-Joo Suh, in IEEE Access, vol. 13, pp. 59959-59976 <br />
 <a href="https://doi.org/10.1109/ACCESS.2025.3555984">[Paper]</a>
 
 * <B> EmoSDS: Unified Emotionally Adaptive Spoken Dialogue System Using Self-Supervised Speech Representations </B> <br />
@@ -50,10 +50,17 @@ Jaehwan Lee, Youngjun Sim, <U>Jinyou Kim</U>, Young-Joo Suh, in Future Internet 
 <a href="https://doi.org/10.3390/fi17040143">[Paper]</a>
 
 * <B> Efficient Construction of Bluetooth RSSI Fingerprinting-based Indoor Localization System with Domain Adaptation of Neural Network </B> <br />
-Jihun Park, <U>Jinyou Kim</U>, Young-Joo Suh<br />
+Jihun Park, <U>Jinyou Kim</U>, Young-Joo Suh, in Proceeding of KICS 2021 Winter Conference<br /> 
 <a href="https://doi.org/10.1109/ACCESS.2025.3555984">[Paper]</a>
 
-* 
+* <B> CNN/LSTM Model-based Environment Independent Activity Recognition Using Ultra-Wideband Rader </B> <br />
+<U>Jinyou Kim</U>, Jaegook Lee, Young-Joo Suh in Proceeding of KICS 2020 Winter Conference<br />
+<a href="https://doi.org/10.1109/ACCESS.2025.3555984">[Paper]</a>
+
+* <B> Deep Learning-based Sign Language Recognition Method Using WiFi Channel State Information Pattern </B> <br />
+<U>Jinyou Kim</U>, Jaegook Lee, Dongjoo Kim, Young-Joo Suh in Proceeding of KICS 2018 Winter Conference<br />
+<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07369305">[Paper]</a>
+
   
 Talks
 ======
